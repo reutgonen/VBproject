@@ -264,5 +264,5 @@ Public Function isEmailCorrect(str As String)
 End Function
 
 Private Sub Command2_Click()
-    Command2.BackColor = vbRed
+    Command2.BackColor = vbBlue
 End Sub
