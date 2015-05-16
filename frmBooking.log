@@ -1,0 +1,13 @@
+Line 69: Class MSDataGridLib.DataGrid of control DGBooking was not a loaded control class.
+Line 70: The property name Bindings in DGBooking is invalid.
+Line 76: The property name _ExtentX in DGBooking is invalid.
+Line 77: The property name _ExtentY in DGBooking is invalid.
+Line 78: The property name _Version in DGBooking is invalid.
+Line 79: The property name HeadLines in DGBooking is invalid.
+Line 80: The property name RowHeight in DGBooking is invalid.
+Line 89: The property name HeadFont in DGBooking is invalid.
+Line 99: The property name ColumnCount in DGBooking is invalid.
+Line 112: The property name Column00 in DGBooking is invalid.
+Line 125: The property name Column01 in DGBooking is invalid.
+Line 126: The property name SplitCount in DGBooking is invalid.
+Line 132: The property name Split0 in DGBooking is invalid.
