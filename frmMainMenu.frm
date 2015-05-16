@@ -12,6 +12,7 @@ Begin VB.Form frmMainMenu
       Caption         =   "check"
       Height          =   375
       Left            =   2040
+      Style           =   1  'Graphical
       TabIndex        =   8
       Top             =   4320
       Width           =   735
@@ -262,3 +263,6 @@ Public Function isEmailCorrect(str As String)
     isEmailCorrect = flag
 End Function
 
+Private Sub Command2_Click()
+    Command2.BackColor = vbRed
+End Sub
