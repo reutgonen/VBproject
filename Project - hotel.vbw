@@ -15,4 +15,4 @@ frmEditBooking = 182, 182, 1069, 624, , 52, 52, 939, 494, C
 frmChoseCustomer = 78, 78, 965, 520, , 0, 0, 887, 442, C
 frmEditRoom = 130, 130, 1017, 572, , 104, 104, 991, 546, C
 frmFreeRoomsList = 167, 122, 1054, 564, , 130, 130, 1017, 572, C
-frmShiftWorkers = 0, 0, 0, 0, C, 208, 208, 1095, 650, C
+frmShiftWorkers = 104, 104, 991, 546, , 113, 81, 1000, 523, C
